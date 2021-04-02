@@ -1,4 +1,3 @@
-"# how_to_algo" 
 // How to Algorithm
 
 //For many of us solving problems is almost intuitive. You look at a problem and know the steps to work out the answer. That's great, but only works if your mind already knows how to do the thing. If you look at problem and your mind goes "ohgodohfu wadu-i-doooo"; First, don't panic. Then try this:
